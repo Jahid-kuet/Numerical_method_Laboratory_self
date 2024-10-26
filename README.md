@@ -1,4 +1,5 @@
 # Numerical_method_Laboratory_self
+<br>
 Assignment: Console Application Development Using Numerical Methods
 1)Matrix Inversion Using Gause-elimination and Gause-Jordan methods
 Input form:
